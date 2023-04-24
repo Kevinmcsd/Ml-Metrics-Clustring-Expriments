@@ -1,0 +1,10 @@
+1. http://archive.ics.uci.edu/ml/datasets/breast+tissue#
+2. https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
+3. https://archive.ics.uci.edu/ml/datasets/ecoli
+4. https://archive.ics.uci.edu/ml/datasets/glass+identification
+5. https://archive.ics.uci.edu/ml/datasets/haberman's+survival
+6. https://archive.ics.uci.edu/ml/datasets/iris
+7. https://archive.ics.uci.edu/ml/datasets/parkinsons
+8. http://archive.ics.uci.edu/ml/datasets/vertebral+column
+9. https://archive.ics.uci.edu/ml/datasets/wine
+10. https://archive.ics.uci.edu/ml/machine-learning-databases/musk/
